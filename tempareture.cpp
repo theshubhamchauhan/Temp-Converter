@@ -4,8 +4,10 @@
 	Time : Night
 */
 
+/*#include <bits/stdc++>*/
 #include <iostream.h>
 #include <conio.h>
+
 using namespace std;
 
 class temp
@@ -80,7 +82,6 @@ int main()
     }while(c=='y');
     	system("Color 5A");
     	std::cout << "\nThanks for Using." << endl
-    		 << "\n\t\tMade with Love by Shubham" << endl
     		 << "\nPress Any Key For Exit...";
     getch();
     return 0;
